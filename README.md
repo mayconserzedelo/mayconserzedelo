@@ -2,17 +2,16 @@
 
 Economics graduate transitioning into Data Science.
 
-I build practical projects with a focus on:
+I help turn raw data into clear, business-oriented insights using Python, SQL, and analytics fundamentals.
+
+## Currently learning
+
 - Python for data analysis
-- SQL for analytics and data extraction
+- SQL for querying and analytics
 - ETL and data preparation
 - pandas and NumPy
 - Exploratory Data Analysis
 - Introductory Machine Learning
-
-## Current focus
-
-I am currently building a portfolio that shows how I approach real data problems from end to end: cleaning, analysis, visualization, and basic modeling.
 
 ## Featured project
 
@@ -25,19 +24,17 @@ I am currently building a portfolio that shows how I approach real data problems
 
 - Degree in Economics
 - Transitioning into Data Science
-- Studying Python, SQL, ETL, pandas, NumPy, and Machine Learning
-- Focused on building clear, business-oriented projects
+- Building practical projects to develop analysis, visualization, and modeling skills
 
 ## Tools and technologies
 
 Python · SQL · pandas · NumPy · matplotlib · seaborn · scikit-learn · Jupyter Notebook
 
-## Goals
+## What I’m looking for
 
-- Build a strong junior Data Science portfolio
-- Improve analytical and technical skills through hands-on projects
-- Turn data into clear business insights
-- Grow into a Data Science role
+- Junior Data Science opportunities
+- Projects that combine analysis and business problem-solving
+- Teams that value curiosity, consistency, and data-driven thinking
 
 ## Connect with me
 
