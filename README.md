@@ -2,7 +2,12 @@
 
 Economics graduate transitioning into Data Science.
 
-Driven by curiosity, structure, and practical business impact.
+## Recruiter snapshot
+
+- Background in Economics
+- Junior Data Science candidate
+- Strong interest in Python, SQL, ETL, and analytical problem-solving
+- Building a portfolio of practical, business-oriented projects
 
 ## Currently learning
 
@@ -20,21 +25,22 @@ Driven by curiosity, structure, and practical business impact.
   - feature engineering and baseline machine learning
   - charts saved in `reports/figures/`
 
-## Background
+## What I bring
 
-- Degree in Economics
-- Transitioning into Data Science
-- Building practical projects to develop analysis, visualization, and modeling skills
+- Analytical mindset from Economics
+- Practical data cleaning and exploration skills
+- Clear, structured project documentation
+- Focus on turning data into actionable insight
 
 ## Tools and technologies
 
 Python · SQL · pandas · NumPy · matplotlib · seaborn · scikit-learn · Jupyter Notebook
 
-## What I’m looking for
+## Open to
 
-- Junior Data Science opportunities
-- Projects that combine analysis and business problem-solving
-- Teams that value curiosity, consistency, and data-driven thinking
+- Junior Data Science roles
+- Data Analyst roles with a strong analytics component
+- Teams that value curiosity, consistency, and business impact
 
 ## Connect with me
 
