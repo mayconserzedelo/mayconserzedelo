@@ -2,8 +2,6 @@
 
 Economics graduate transitioning into Data Science.
 
-I help turn raw data into clear, business-oriented insights using Python, SQL, and analytics fundamentals.
-
 ## Currently learning
 
 - Python for data analysis
