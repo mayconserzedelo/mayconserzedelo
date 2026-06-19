@@ -2,6 +2,8 @@
 
 Economics graduate transitioning into Data Science.
 
+Driven by curiosity, structure, and practical business impact.
+
 ## Currently learning
 
 - Python for data analysis
